@@ -12,7 +12,7 @@
 
 ### lien vers les diagrammes use cases
 
-   1- diagramme résumé des maquettes : [lien](https://github.com/mintoug/anissamandhouj-10-11032011/blob/main/use%20cases/diagramme%20g%C3%A9n%C3%A9ral%20-%20user-stories%20g%C3%A9n%C3%A9ral.jpeg)
+   1- diagramme résumé des maquettes : [lien](https://github.com/mintoug/anissamandhouj-10-11032011/blob/main/use%20cases/diagramme%20g%C3%A9n%C3%A9ral%20-%20r%C3%A9sum%C3%A9%20g%C3%A9n%C3%A9ral%20%20des%20maquettes.jpeg)
    
    2- diagramme page de connexion : [lien](https://github.com/mintoug/anissamandhouj-10-11032011/blob/main/use%20cases/diagramme%20g%C3%A9n%C3%A9ral%20-%20page%20connexion.jpeg)
    
