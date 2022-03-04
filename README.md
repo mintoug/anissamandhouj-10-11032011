@@ -22,7 +22,7 @@
    
    5- diagramme page du calendrier : [lien](https://github.com/mintoug/anissamandhouj-10-11032011/blob/main/use%20cases/diagramme%20g%C3%A9n%C3%A9ral%20-%20page%20calendrier.jpeg)
    
-   6- diagramme page de gestion des tâches : [lien](https://github.com/mintoug/anissamandhouj-10-11032011/blob/main/use%20cases/diagramme%20g%C3%A9n%C3%A9ral%20-%20gestion%20des%20t%C3%A2ches.jpeg)
+   6- diagramme page de gestion des tâches : [lien](https://github.com/mintoug/anissamandhouj-10-11032011/blob/main/use%20cases/user-storie-%C3%A9l%C3%A8ve.pdf)
    
    
    ###  lien vers le Kanban
