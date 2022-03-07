@@ -7,9 +7,9 @@
 [Maquettes Learn@Home](https://www.figma.com/file/hqjVwLUyAx4EtOWz4RNWdh/Learn%40Home?node-id=14%3A2"Learn@Home")
 
 ### lien vers le user storie parcours élève
-
+[user storie parcours élève](https://github.com/mintoug/anissamandhouj-10-11032011/blob/main/USER%20STORIES%20-%20ELEVE.pdf)
 ### lien vers le user storie parcours bénévole
-
+[user storie parcours bénévole](https://github.com/mintoug/anissamandhouj-10-11032011/blob/main/USER%20STORIES%20BENEVOLE.pdf)
 ### lien vers les diagrammes use cases
 
    1- diagramme résumé des maquettes : [lien](https://github.com/mintoug/anissamandhouj-10-11032011/blob/main/use%20cases/diagramme%20g%C3%A9n%C3%A9ral%20-%20r%C3%A9sum%C3%A9%20g%C3%A9n%C3%A9ral%20%20des%20maquettes.jpeg)
